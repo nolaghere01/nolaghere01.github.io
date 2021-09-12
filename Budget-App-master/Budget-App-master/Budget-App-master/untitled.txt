@@ -1,0 +1,10 @@
+dossier zip :
+ttpss://github.com/Safwan138/Budget-App
+dossier (web app) zip : 
+https://github.com/JustFS/pwa/tree/master/assets/icons
+
+projet a modifié :
+taille web mobile a recréé : fini ✓
+coleur : fini ✓
+web app : en cours 
+
